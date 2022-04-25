@@ -1,6 +1,6 @@
 
 services:
-  web:
+ 
     build: .
     environment:
       API_ID: $API_ID  
