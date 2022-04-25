@@ -1,6 +1,6 @@
 
 services:
-  target: 
+  worker:
     build: .
     environment:
       API_ID: $API_ID  
